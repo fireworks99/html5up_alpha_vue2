@@ -1,0 +1,2 @@
+# html5up_alpha_vue2
+将HTML5UP中的Alpha主题改改，使其在vue2中能用
